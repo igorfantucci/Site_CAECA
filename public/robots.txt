@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /area-aluno/
+Disallow: /admin/
+Disallow: /download.php
